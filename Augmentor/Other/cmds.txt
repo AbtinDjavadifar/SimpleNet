@@ -1,0 +1,2 @@
+p.rotate(probability=1, max_left_rotation=20, max_right_rotation=20)
+p.zoom(probability=1, min_factor=1.1, max_factor=1.5)
