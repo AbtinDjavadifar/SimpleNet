@@ -11,7 +11,12 @@ This paper introduces an automated wrinkle detection methodon  semi-finished  fi
 ## Citation
 If you use this code or the MultiNet architecture for your research, please cite our paper.
 ```
-@inproceedings{
+@inproceedings{djavadifar2019smart,
+  title={Robot-assisted composite manufacturing based on machine learning applied to multi-view computer vision},
+  author={Djavadifar, Abtin and Graham-Knight, John Brandon and Gupta, Kashish and K\"orber, Marian and Lasserre, Patricia and Najjaran, Homayoun},
+  booktitle={International Conference on Smart Multimedia},
+  year={2019},
+  organization={Springer}
 }
 ```
 
