@@ -21,4 +21,4 @@ If you use this code or the MultiNet architecture for your research, please cite
 
 ## Prerequisites
 - Python 2 or 3
-- CPU or NVIDIA GPU + CUDA CuDNN
+- CPU or NVIDIA GPU + CUDA & CuDNN
