@@ -4,7 +4,7 @@ This repository contains the pieces of code used in our paper titled "Robot-assi
 
 
 <p align="center">
-    <img src="imgs/Cam_1_Pic_19-07-52.jpg" width="500px"></br>
+    <img src="images/Cam_1_Pic_19-07-52.jpg" width="500px"></br>
 </p>
 
 ## Citation
@@ -22,3 +22,11 @@ If you use this code or the MultiNet architecture for your research, please cite
 ## Prerequisites
 - Python 2 or 3
 - CPU or NVIDIA GPU + CUDA & CuDNN
+
+## Training and using the model
+
+`preprocess.py`: preparing the data <br />
+`train.py`: training the model <br />
+`inference.py`: using the model for making predictions on new images
+`evaluate.py`: calculating the prediction accuracy score
+
